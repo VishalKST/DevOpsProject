@@ -71,3 +71,14 @@ In this Realtime DevOps project we will be using Terraform and AWS Cloud to set 
 
 OUTPUT
 
+![1](https://github.com/VishalKST/DevOpsProject_Terraform/assets/103365187/78a42063-8681-4649-a2a9-30434abfaf95)
+![2](https://github.com/VishalKST/DevOpsProject_Terraform/assets/103365187/377ea0b4-21b1-4d32-bcd9-de995bf940ff)
+![3](https://github.com/VishalKST/DevOpsProject_Terraform/assets/103365187/155ca55a-3679-4c54-84d7-0672fc519121)
+![4](https://github.com/VishalKST/DevOpsProject_Terraform/assets/103365187/e497315e-ef2c-4caf-a623-e58c20b3a437)
+![5](https://github.com/VishalKST/DevOpsProject_Terraform/assets/103365187/73e46174-dddc-49aa-82b8-4bfb95acd2da)
+![6](https://github.com/VishalKST/DevOpsProject_Terraform/assets/103365187/6a7ba7f0-ea4c-4b54-96f7-111b3ddabc71)
+
+You can find Website link at the end og the Properties tab inside the created bucket.
+![7](https://github.com/VishalKST/DevOpsProject_Terraform/assets/103365187/dd3eca2f-3385-4785-a6b3-fc699534ea03)
+![8](https://github.com/VishalKST/DevOpsProject_Terraform/assets/103365187/5bc3d104-66f8-42a4-801d-207065bed2a2)
+![9](https://github.com/VishalKST/DevOpsProject_Terraform/assets/103365187/e1b31bb6-af66-4395-88d8-1185112c50c8)
