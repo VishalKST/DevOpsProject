@@ -1,6 +1,6 @@
 # DevOpsProject
 Simple DevOps Project using Terraform in AWS
-In this Realtime DevOps project we will be using Terraform and AWS Cloud to set up static website hosting fully automated in just 3 seconds.
+In this Realtime DevOps project we will be using Terraform and AWS Cloud to set up static website [Personal Portfolio] hosting fully automated in just 3 seconds.
 
 1. **Prerequisites:**
    - Have an AWS account.
